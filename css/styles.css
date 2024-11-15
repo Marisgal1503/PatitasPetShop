@@ -20,13 +20,14 @@
     background-color: #ff6e61dc;
 }
 
-.logo a {
+.logo h1 {
     font-size: 32px;
     width: 4em;
     height: 4em;
     font-weight: 700;
     text-decoration:none;
     color: #000000;
+    align-content: center;
 }
 
 .links ul {
