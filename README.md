@@ -1,0 +1,1 @@
+Esta página es un pet shop con productos para mascotaas.
